@@ -18,14 +18,16 @@
  </div>
 
 
+<div align="left">
+  <img src="https://freshports.org/images/notbug.gif" height="52" alt="Spinning text 'Krajina'" />
+  <img width="12" /> 
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diabloblacno&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
-<h2 align="left">#AntiVibeCodingMovement<h2></h2>
-<div align="left">
-  <img src="https://github.com/diabloblacno/imgs/krajina.gif" height="52" alt="Spinning text 'Krajina'" />
-  <img width="12" /> 
-</div>
+<h2 align="center"> Dogodine u Kninu!</h2>
 <div align="center">
-  <img src="https://github.com/diabloblacno/imgs/srbija.gif" height="52" alt="Spinning text 'Srbija'" />
-  <img width="12" />
+      <img src="https://web.archive.org/web/20120416153517if_/http://www.vladarsk.com/user/cimage/kra.gif" height="56" alt="Krajina" />
+      <img width="16" />
+</div>
