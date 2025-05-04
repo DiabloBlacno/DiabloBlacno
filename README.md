@@ -9,6 +9,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="52" alt="c " />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="52" alt="haskell" />
+  <img width="12" />
   </div>
 
 <h2 align="center"> Languages that must be destroyed:</h2>
